@@ -1,0 +1,15 @@
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.Requests\bin\Debug\net5.0\TiEventsy.TimetableService.Requests.deps.json
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.Requests\bin\Debug\net5.0\TiEventsy.TimetableService.Requests.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.Requests\bin\Debug\net5.0\ref\TiEventsy.TimetableService.Requests.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.Requests\bin\Debug\net5.0\TiEventsy.TimetableService.Requests.pdb
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.Requests\bin\Debug\net5.0\TiEventsy.TimetableService.MongoDbModels.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.Requests\bin\Debug\net5.0\TiEventsy.TimetableService.MongoDbModels.pdb
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.Requests\obj\Debug\net5.0\TiEventsy.TimetableService.Requests.csproj.AssemblyReference.cache
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.Requests\obj\Debug\net5.0\TiEventsy.TimetableService.Requests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.Requests\obj\Debug\net5.0\TiEventsy.TimetableService.Requests.AssemblyInfoInputs.cache
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.Requests\obj\Debug\net5.0\TiEventsy.TimetableService.Requests.AssemblyInfo.cs
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.Requests\obj\Debug\net5.0\TiEventsy.TimetableService.Requests.csproj.CoreCompileInputs.cache
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.Requests\obj\Debug\net5.0\TiEventsy.TimetableService.Requests.csproj.CopyComplete
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.Requests\obj\Debug\net5.0\TiEventsy.TimetableService.Requests.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.Requests\obj\Debug\net5.0\ref\TiEventsy.TimetableService.Requests.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.Requests\obj\Debug\net5.0\TiEventsy.TimetableService.Requests.pdb

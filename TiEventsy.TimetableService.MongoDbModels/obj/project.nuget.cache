@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lFfYDhqBeX53w/8olVZsAVfypT6ANCvtlUZGPWX6OzpNzSJ0TSLZfG2tYunvdHw0/kiDoL2rMBiV+KhMy1iVjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.TimetableService.MongoDbModels\\TiEventsy.TimetableService.MongoDbModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igors\\.nuget\\packages\\mongodb.bson\\2.12.3\\mongodb.bson.2.12.3.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

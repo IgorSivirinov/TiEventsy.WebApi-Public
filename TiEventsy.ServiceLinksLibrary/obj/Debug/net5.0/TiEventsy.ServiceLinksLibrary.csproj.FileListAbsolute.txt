@@ -1,0 +1,12 @@
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.ServiceLinksLibrary\bin\Debug\net5.0\TiEventsy.ServiceLinksLibrary.deps.json
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.ServiceLinksLibrary\bin\Debug\net5.0\TiEventsy.ServiceLinksLibrary.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.ServiceLinksLibrary\bin\Debug\net5.0\ref\TiEventsy.ServiceLinksLibrary.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.ServiceLinksLibrary\bin\Debug\net5.0\TiEventsy.ServiceLinksLibrary.pdb
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.ServiceLinksLibrary\obj\Debug\net5.0\TiEventsy.ServiceLinksLibrary.csproj.AssemblyReference.cache
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.ServiceLinksLibrary\obj\Debug\net5.0\TiEventsy.ServiceLinksLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.ServiceLinksLibrary\obj\Debug\net5.0\TiEventsy.ServiceLinksLibrary.AssemblyInfoInputs.cache
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.ServiceLinksLibrary\obj\Debug\net5.0\TiEventsy.ServiceLinksLibrary.AssemblyInfo.cs
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.ServiceLinksLibrary\obj\Debug\net5.0\TiEventsy.ServiceLinksLibrary.csproj.CoreCompileInputs.cache
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.ServiceLinksLibrary\obj\Debug\net5.0\TiEventsy.ServiceLinksLibrary.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.ServiceLinksLibrary\obj\Debug\net5.0\ref\TiEventsy.ServiceLinksLibrary.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.ServiceLinksLibrary\obj\Debug\net5.0\TiEventsy.ServiceLinksLibrary.pdb

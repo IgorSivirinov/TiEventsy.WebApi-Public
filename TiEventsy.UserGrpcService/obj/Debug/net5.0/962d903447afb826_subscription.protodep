@@ -1,0 +1,3 @@
+obj\Debug\net5.0/Subscription.cs \
+obj\Debug\net5.0/SubscriptionGrpc.cs: C:/Users/igors/.nuget/packages/grpc.tools/2.34.0/build/native/include/google/protobuf/empty.proto\
+ ../TiEventsy.SubscriptionGrpcService.Requests/subscription.proto

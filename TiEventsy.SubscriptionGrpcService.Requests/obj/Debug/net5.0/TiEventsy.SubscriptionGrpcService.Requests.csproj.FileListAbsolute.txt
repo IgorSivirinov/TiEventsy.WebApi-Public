@@ -1,0 +1,12 @@
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.SubscriptionGrpcService.Requests\obj\Debug\net5.0\TiEventsy.SubscriptionGrpcService.Requests.csproj.AssemblyReference.cache
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.SubscriptionGrpcService.Requests\obj\Debug\net5.0\TiEventsy.SubscriptionGrpcService.Requests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.SubscriptionGrpcService.Requests\obj\Debug\net5.0\TiEventsy.SubscriptionGrpcService.Requests.AssemblyInfoInputs.cache
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.SubscriptionGrpcService.Requests\obj\Debug\net5.0\TiEventsy.SubscriptionGrpcService.Requests.AssemblyInfo.cs
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.SubscriptionGrpcService.Requests\obj\Debug\net5.0\TiEventsy.SubscriptionGrpcService.Requests.csproj.CoreCompileInputs.cache
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.SubscriptionGrpcService.Requests\bin\Debug\net5.0\TiEventsy.SubscriptionGrpcService.Requests.deps.json
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.SubscriptionGrpcService.Requests\bin\Debug\net5.0\TiEventsy.SubscriptionGrpcService.Requests.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.SubscriptionGrpcService.Requests\bin\Debug\net5.0\ref\TiEventsy.SubscriptionGrpcService.Requests.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.SubscriptionGrpcService.Requests\bin\Debug\net5.0\TiEventsy.SubscriptionGrpcService.Requests.pdb
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.SubscriptionGrpcService.Requests\obj\Debug\net5.0\TiEventsy.SubscriptionGrpcService.Requests.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.SubscriptionGrpcService.Requests\obj\Debug\net5.0\ref\TiEventsy.SubscriptionGrpcService.Requests.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.SubscriptionGrpcService.Requests\obj\Debug\net5.0\TiEventsy.SubscriptionGrpcService.Requests.pdb

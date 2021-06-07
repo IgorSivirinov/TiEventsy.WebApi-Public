@@ -1,0 +1,15 @@
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.MongoDbBase\bin\Debug\net5.0\snappy32.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.MongoDbBase\bin\Debug\net5.0\snappy64.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.MongoDbBase\bin\Debug\net5.0\libzstd.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.MongoDbBase\bin\Debug\net5.0\TiEventsy.MongoDbBase.deps.json
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.MongoDbBase\bin\Debug\net5.0\TiEventsy.MongoDbBase.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.MongoDbBase\bin\Debug\net5.0\ref\TiEventsy.MongoDbBase.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.MongoDbBase\bin\Debug\net5.0\TiEventsy.MongoDbBase.pdb
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.MongoDbBase\obj\Debug\net5.0\TiEventsy.MongoDbBase.csproj.AssemblyReference.cache
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.MongoDbBase\obj\Debug\net5.0\TiEventsy.MongoDbBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.MongoDbBase\obj\Debug\net5.0\TiEventsy.MongoDbBase.AssemblyInfoInputs.cache
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.MongoDbBase\obj\Debug\net5.0\TiEventsy.MongoDbBase.AssemblyInfo.cs
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.MongoDbBase\obj\Debug\net5.0\TiEventsy.MongoDbBase.csproj.CoreCompileInputs.cache
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.MongoDbBase\obj\Debug\net5.0\TiEventsy.MongoDbBase.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.MongoDbBase\obj\Debug\net5.0\ref\TiEventsy.MongoDbBase.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.MongoDbBase\obj\Debug\net5.0\TiEventsy.MongoDbBase.pdb

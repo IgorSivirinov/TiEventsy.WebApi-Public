@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TiEventsy.TimetableService</name>
+    </assembly>
+    <members>
+        <member name="M:TiEventsy.TimetableService.Controllers.TimetableController.GetTimetableById(System.String)">
+            <summary>
+            Get a timetable using Id
+            </summary>
+            <param name="id"></param>
+            <returns>A timetable (Document MongoDB) </returns>
+        </member>
+        <member name="M:TiEventsy.TimetableService.Controllers.TimetableController.GetTimetableByIds(TiEventsy.TimetableService.Requests.GetTimetableGetIdsRequest)">
+            <summary>
+            Get Timetables by ids and sorting
+            </summary>
+            <param name="request">
+            </param>
+            <returns>Sorted timetables (Document MongoDB) </returns>
+        </member>
+        <member name="M:TiEventsy.TimetableService.Controllers.TimetableController.GetTimetableByFilter(TiEventsy.TimetableService.Requests.GetTimetableGetFilterRequest)">
+            <summary>
+            Get Timetables by filter and sorting
+            </summary>
+            <param name="request">
+            </param>
+            <returns>Sorted timetables (Document MongoDB) </returns>
+        </member>
+        <member name="M:TiEventsy.TimetableService.Controllers.TimetableController.GetTimetableByFunc(System.Func{MongoDB.Driver.IMongoCollection{TiEventsy.TimetableService.MongoDbModels.MongoTimetable},System.Threading.Tasks.Task{TiEventsy.TimetableService.MongoDbModels.MongoTimetable[]}})">
+            <summary>
+            Get Timetables by function request
+            </summary>
+            <param name="func">
+            </param>
+            <returns>A timetable or timetables (Document MongoDB) </returns>
+        </member>
+        <member name="M:TiEventsy.TimetableService.Controllers.TimetableController.UpdateTimetableById(TiEventsy.TimetableService.Requests.UpdateTimetablePostIdRequest)">
+            <summary>
+            Update a timetable by id and MongoDB update
+            </summary>
+            <param name="request"></param>
+        </member>
+        <member name="M:TiEventsy.TimetableService.Controllers.TimetableController.UpdateTimetableByIds(TiEventsy.TimetableService.Requests.UpdateTimetablePostIdsRequest)">
+            <summary>
+            Update timetables by ids and MongoDB update
+            </summary>
+            <param name="request"></param>
+        </member>
+        <member name="M:TiEventsy.TimetableService.Controllers.TimetableController.UpdateTimetableByFilter(TiEventsy.TimetableService.Requests.UpdateTimetablePostFilterRequest)">
+            <summary>
+            Update a timetable by MongoDB filter and MongoDB update
+            </summary>
+            <param name="request"></param>
+        </member>
+        <member name="M:TiEventsy.TimetableService.Controllers.TimetableController.UpdateTimetableManyByFilter(TiEventsy.TimetableService.Requests.UpdateManyTimetablePostFilterRequest)">
+            <summary>
+            Update timetables by MongoDB filter and MongoDB update
+            </summary>
+            <param name="request"></param>
+        </member>
+        <member name="M:TiEventsy.TimetableService.Controllers.TimetableController.UpdateTimetableByFunc(System.Func{MongoDB.Driver.IMongoCollection{TiEventsy.TimetableService.MongoDbModels.MongoTimetable},System.Threading.Tasks.Task})">
+            <summary>
+            Update a timetable or timetables by function
+            </summary>
+            <param name="func"></param>
+        </member>
+        <member name="M:TiEventsy.TimetableService.Controllers.TimetableController.CreateTimetableByObject(TiEventsy.TimetableService.MongoDbModels.MongoTimetable)">
+            <summary>
+            Create a timetable by MongoTimetable object
+            </summary>
+            <param name="timetable"></param>
+        </member>
+        <member name="M:TiEventsy.TimetableService.Controllers.TimetableController.CreateTimetableManyByObjects(TiEventsy.TimetableService.MongoDbModels.MongoTimetable[])">
+            <summary>
+            Create timetables by MongoTimetable objects
+            </summary>
+            <param name="timetables"></param>
+        </member>
+        <member name="M:TiEventsy.TimetableService.Controllers.TimetableController.DeleteTimetableById(System.String)">
+            <summary>
+            Delete a timetable by id
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:TiEventsy.TimetableService.Controllers.TimetableController.DeleteTimetableByIds(System.String[])">
+            <summary>
+            Delete timetables by ids
+            </summary>
+            <param name="ids"></param>
+        </member>
+        <member name="M:TiEventsy.TimetableService.Controllers.TimetableController.DeleteTimetableByFilter(TiEventsy.TimetableService.Requests.DeleteTimetablePostFilterRequest)">
+            <summary>
+            Delete timetable by MongoDB filter
+            </summary>
+            <param name="request"></param>
+        </member>
+        <member name="M:TiEventsy.TimetableService.Controllers.TimetableController.DeleteTimetableManyByFilter(TiEventsy.TimetableService.Requests.DeleteManyTimetablePostFilterRequest)">
+            <summary>
+            Delete timetables by MongoDB filter
+            </summary>
+            <param name="request"></param>
+        </member>
+        <member name="M:TiEventsy.TimetableService.Controllers.TimetableController.DeleteTimetableByFunc(System.Func{MongoDB.Driver.IMongoCollection{TiEventsy.TimetableService.MongoDbModels.MongoTimetable},System.Threading.Tasks.Task})">
+            <summary>
+            Delete a timetable or timetables by function
+            </summary>
+            <param name="func"></param>
+        </member>
+    </members>
+</doc>

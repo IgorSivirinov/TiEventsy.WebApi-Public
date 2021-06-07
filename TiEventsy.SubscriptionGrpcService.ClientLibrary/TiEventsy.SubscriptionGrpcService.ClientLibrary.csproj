@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="SubscriptionClient.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Protobuf" Version="3.17.2" />
+    <PackageReference Include="Grpc.Net.Client" Version="2.37.0" />
+    <PackageReference Include="Grpc.Tools" Version="2.38.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TiEventsy.ClientBaseLibrary\TiEventsy.ClientBaseLibrary.csproj" />
+    <ProjectReference Include="..\TiEventsy.ServiceLinksLibrary\TiEventsy.ServiceLinksLibrary.csproj" />
+    <ProjectReference Include="..\TiEventsy.SubscriptionGrpcService.Requests\TiEventsy.SubscriptionGrpcService.Requests.csproj" />
+  </ItemGroup>
+
+</Project>

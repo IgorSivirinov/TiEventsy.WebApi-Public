@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "z5Jx1LU2+CfMLS1CAv+jRjOOhKpmZ037ZdrmpzJr5iJhUpzPF5E0ueLZ9lRaG0kHuU7F8rnk7+ct3hpQAspLiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.UserGrpcService.Requests\\TiEventsy.UserGrpcService.Requests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igors\\.nuget\\packages\\google.protobuf\\3.17.2\\google.protobuf.3.17.2.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\grpc\\2.38.0\\grpc.2.38.0.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\grpc.core\\2.38.0\\grpc.core.2.38.0.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\grpc.core.api\\2.38.0\\grpc.core.api.2.38.0.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\grpc.tools\\2.38.0\\grpc.tools.2.38.0.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

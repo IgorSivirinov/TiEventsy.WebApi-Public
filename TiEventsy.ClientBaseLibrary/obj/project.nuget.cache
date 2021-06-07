@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "UN2VEw+5fV708wPOKfSIybMC1O/ipKts5Amb0Yurq+IWIMIf4JxnWe4UDCvy5gteu+9gMse8h4JCxLV1oyNEDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.ClientBaseLibrary\\TiEventsy.ClientBaseLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igors\\.nuget\\packages\\grpc.core.api\\2.37.0\\grpc.core.api.2.37.0.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\grpc.net.client\\2.37.0\\grpc.net.client.2.37.0.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\grpc.net.common\\2.37.0\\grpc.net.common.2.37.0.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

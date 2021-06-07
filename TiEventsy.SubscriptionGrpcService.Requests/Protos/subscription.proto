@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+option csharp_namespace = "TiEventsy.SubscriptionGrpcService.Requests.Protos";
+
+import "google/protobuf/empty.proto";
+
+package subscription;
+
+service SubscriptionOperations{
+	rpc NewUserSubscriptions (google.protobuf.Empty) returns (google.protobuf.Empty);
+	rpc DeleteUserSubscriptions (google.protobuf.Empty) returns (google.protobuf.Empty);
+	rpc GetUserSubscriptions (UserId) returns (ListSubId);
+	rpc GetUserId (SubId) returns (UserId);
+	rpc NewSubscription (SubId) returns (google.protobuf.Empty);
+	rpc DeleteSubscription (SubId) returns (google.protobuf.Empty);
+}
+
+message UserId{
+	string id = 1;
+}
+
+message SubId {
+  string id = 1;
+}
+
+message ListSubId{
+	repeated string ids = 1;
+}

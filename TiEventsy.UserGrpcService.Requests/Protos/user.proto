@@ -1,0 +1,32 @@
+syntax = "proto3";
+
+option csharp_namespace = "TiEventsy.UserGrpcService.Requests.Protos";
+
+import "google/protobuf/empty.proto";
+
+package user;
+
+service UserOperations{
+	rpc NewUser (google.protobuf.Empty) returns (google.protobuf.Empty);
+    rpc DeleteUser (google.protobuf.Empty) returns (google.protobuf.Empty);
+    rpc GetPublicUserDate (UserId) returns (PublicUserData);
+    rpc GetPrivateUserDate (google.protobuf.Empty) returns (PrivateUserData);
+}
+
+message UserId {
+    string id = 1;
+}
+
+message PublicUserData {
+    string name = 1;
+    string uri_image = 2;
+    repeated string my_timetable_ids = 3;
+}
+
+message PrivateUserData{
+    string name = 1;
+    string email = 3;
+    string uri_image = 4;
+    repeated string my_timetable_ids = 5;
+    repeated string timetable_subscriptions = 6;
+}

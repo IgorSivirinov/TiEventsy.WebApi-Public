@@ -1,0 +1,12 @@
+{
+	"AzureAdB2C": {
+		"Instance": "https://tieventsyAD.b2clogin.com",
+		"ClientId": "137312d9-8c3e-4479-b1bf-40c88dc93c7d",
+		"ClientSecret": "6-10jkP-3Hb2a1092ZMelF._VgEqt~7o3j",
+		"Domain": "tieventsyAD.onmicrosoft.com",
+		"SignedOutCallbackPath": "/signout/B2C_1_LoginAndRegistration",
+		"SignUpSignInPolicyId": "B2C_1_LoginAndRegistration",
+		"ResetPasswordPolicyId": "B2C_1_Edit_Password",
+		"EditProfilePolicyId": "B2C_1_Edit_Account"
+	}
+}

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "K86TPWi/dCpToAZfJDEwDs2cl3JmXLfFeAkzfgqQRE3BWcPANzNVwJ/Ewf3hjzJDxp0SRmzJ+JukqztN6CViwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.SubscriptionGrpcService.Requests\\TiEventsy.SubscriptionGrpcService.Requests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igors\\.nuget\\packages\\google.protobuf\\3.17.2\\google.protobuf.3.17.2.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\grpc\\2.38.0\\grpc.2.38.0.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\grpc.core\\2.38.0\\grpc.core.2.38.0.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\grpc.core.api\\2.38.0\\grpc.core.api.2.38.0.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\grpc.net.client\\2.37.0\\grpc.net.client.2.37.0.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\grpc.net.common\\2.37.0\\grpc.net.common.2.37.0.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\grpc.tools\\2.38.0\\grpc.tools.2.38.0.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\igors\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

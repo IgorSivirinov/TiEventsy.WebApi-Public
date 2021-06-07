@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>f4cba21a-2bf1-484e-99ab-52571f1c7d8a</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService\TiEventsy.TimetableService.xml</DocumentationFile>
+    <NoWarn>1701;1702;IL2026;CS1591;IL2026</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.14" />
+    <PackageReference Include="MongoDB.Bson" Version="2.12.3" />
+    <PackageReference Include="MongoDB.Driver" Version="2.12.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TiEventsy.AuthAzureB2C\TiEventsy.AuthAzureB2C.csproj" />
+    <ProjectReference Include="..\TiEventsy.TimetableService.MongoDbModels\TiEventsy.TimetableService.MongoDbModels.csproj" />
+    <ProjectReference Include="..\TiEventsy.TimetableService.Requests\TiEventsy.TimetableService.Requests.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
+</Project>

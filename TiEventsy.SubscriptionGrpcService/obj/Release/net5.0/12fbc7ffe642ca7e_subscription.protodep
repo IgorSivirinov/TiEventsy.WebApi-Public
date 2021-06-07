@@ -1,0 +1,3 @@
+obj\Release\net5.0\Protos/Subscription.cs \
+obj\Release\net5.0\Protos/SubscriptionGrpc.cs: C:/Users/igors/.nuget/packages/grpc.tools/2.37.0/build/native/include/google/protobuf/empty.proto\
+ Protos/subscription.proto

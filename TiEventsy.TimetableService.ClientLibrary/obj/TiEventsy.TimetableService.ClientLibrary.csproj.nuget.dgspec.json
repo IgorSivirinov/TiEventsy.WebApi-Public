@@ -1,0 +1,540 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.TimetableService.ClientLibrary\\TiEventsy.TimetableService.ClientLibrary.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.ClientBaseLibrary\\TiEventsy.ClientBaseLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.ClientBaseLibrary\\TiEventsy.ClientBaseLibrary.csproj",
+        "projectName": "TiEventsy.ClientBaseLibrary",
+        "projectPath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.ClientBaseLibrary\\TiEventsy.ClientBaseLibrary.csproj",
+        "packagesPath": "C:\\Users\\igors\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.ClientBaseLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\igors\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Grpc.Net.Client": {
+              "target": "Package",
+              "version": "[2.37.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.ServiceLinksLibrary\\TiEventsy.ServiceLinksLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.ServiceLinksLibrary\\TiEventsy.ServiceLinksLibrary.csproj",
+        "projectName": "TiEventsy.ServiceLinksLibrary",
+        "projectPath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.ServiceLinksLibrary\\TiEventsy.ServiceLinksLibrary.csproj",
+        "packagesPath": "C:\\Users\\igors\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.ServiceLinksLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\igors\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.SubscriptionGrpcService.ClientLibrary\\TiEventsy.SubscriptionGrpcService.ClientLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.SubscriptionGrpcService.ClientLibrary\\TiEventsy.SubscriptionGrpcService.ClientLibrary.csproj",
+        "projectName": "TiEventsy.SubscriptionGrpcService.ClientLibrary",
+        "projectPath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.SubscriptionGrpcService.ClientLibrary\\TiEventsy.SubscriptionGrpcService.ClientLibrary.csproj",
+        "packagesPath": "C:\\Users\\igors\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.SubscriptionGrpcService.ClientLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\igors\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.ClientBaseLibrary\\TiEventsy.ClientBaseLibrary.csproj": {
+                "projectPath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.ClientBaseLibrary\\TiEventsy.ClientBaseLibrary.csproj"
+              },
+              "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.ServiceLinksLibrary\\TiEventsy.ServiceLinksLibrary.csproj": {
+                "projectPath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.ServiceLinksLibrary\\TiEventsy.ServiceLinksLibrary.csproj"
+              },
+              "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.SubscriptionGrpcService.Requests\\TiEventsy.SubscriptionGrpcService.Requests.csproj": {
+                "projectPath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.SubscriptionGrpcService.Requests\\TiEventsy.SubscriptionGrpcService.Requests.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.17.2, )"
+            },
+            "Grpc.Net.Client": {
+              "target": "Package",
+              "version": "[2.37.0, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.38.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.SubscriptionGrpcService.Requests\\TiEventsy.SubscriptionGrpcService.Requests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.SubscriptionGrpcService.Requests\\TiEventsy.SubscriptionGrpcService.Requests.csproj",
+        "projectName": "TiEventsy.SubscriptionGrpcService.Requests",
+        "projectPath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.SubscriptionGrpcService.Requests\\TiEventsy.SubscriptionGrpcService.Requests.csproj",
+        "packagesPath": "C:\\Users\\igors\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.SubscriptionGrpcService.Requests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\igors\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.17.2, )"
+            },
+            "Grpc": {
+              "target": "Package",
+              "version": "[2.38.0, )"
+            },
+            "Grpc.Net.Client": {
+              "target": "Package",
+              "version": "[2.37.0, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.38.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.TimetableService.ClientLibrary\\TiEventsy.TimetableService.ClientLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.TimetableService.ClientLibrary\\TiEventsy.TimetableService.ClientLibrary.csproj",
+        "projectName": "TiEventsy.TimetableService.ClientLibrary",
+        "projectPath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.TimetableService.ClientLibrary\\TiEventsy.TimetableService.ClientLibrary.csproj",
+        "packagesPath": "C:\\Users\\igors\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.TimetableService.ClientLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\igors\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.ClientBaseLibrary\\TiEventsy.ClientBaseLibrary.csproj": {
+                "projectPath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.ClientBaseLibrary\\TiEventsy.ClientBaseLibrary.csproj"
+              },
+              "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.ServiceLinksLibrary\\TiEventsy.ServiceLinksLibrary.csproj": {
+                "projectPath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.ServiceLinksLibrary\\TiEventsy.ServiceLinksLibrary.csproj"
+              },
+              "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.SubscriptionGrpcService.ClientLibrary\\TiEventsy.SubscriptionGrpcService.ClientLibrary.csproj": {
+                "projectPath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.SubscriptionGrpcService.ClientLibrary\\TiEventsy.SubscriptionGrpcService.ClientLibrary.csproj"
+              },
+              "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.TimetableService.MongoDbModels\\TiEventsy.TimetableService.MongoDbModels.csproj": {
+                "projectPath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.TimetableService.MongoDbModels\\TiEventsy.TimetableService.MongoDbModels.csproj"
+              },
+              "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.TimetableService.Requests\\TiEventsy.TimetableService.Requests.csproj": {
+                "projectPath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.TimetableService.Requests\\TiEventsy.TimetableService.Requests.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.ApiDescription.Client": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "NSwag.ApiDescription.Client": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[13.0.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.TimetableService.MongoDbModels\\TiEventsy.TimetableService.MongoDbModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.TimetableService.MongoDbModels\\TiEventsy.TimetableService.MongoDbModels.csproj",
+        "projectName": "TiEventsy.TimetableService.MongoDbModels",
+        "projectPath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.TimetableService.MongoDbModels\\TiEventsy.TimetableService.MongoDbModels.csproj",
+        "packagesPath": "C:\\Users\\igors\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.TimetableService.MongoDbModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\igors\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.12.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.TimetableService.Requests\\TiEventsy.TimetableService.Requests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.TimetableService.Requests\\TiEventsy.TimetableService.Requests.csproj",
+        "projectName": "TiEventsy.TimetableService.Requests",
+        "projectPath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.TimetableService.Requests\\TiEventsy.TimetableService.Requests.csproj",
+        "packagesPath": "C:\\Users\\igors\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.TimetableService.Requests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\igors\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.TimetableService.MongoDbModels\\TiEventsy.TimetableService.MongoDbModels.csproj": {
+                "projectPath": "C:\\Users\\igors\\source\\repos\\TiEventsy.WebApi\\TiEventsy.TimetableService.MongoDbModels\\TiEventsy.TimetableService.MongoDbModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.12.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

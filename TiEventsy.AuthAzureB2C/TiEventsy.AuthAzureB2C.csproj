@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="conf_azureb2c.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="conf_azureb2c.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Grpc.AspNetCore" Version="2.37.0" />
+    <PackageReference Include="Microsoft.Identity.Web" Version="1.12.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="AuthAzureB2CConfiguration.cs" />
+    <Resource Include="conf_azureb2c.json" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,13 @@
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.AuthAzureB2C\bin\Debug\net5.0\TiEventsy.AuthAzureB2C.deps.json
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.AuthAzureB2C\bin\Debug\net5.0\TiEventsy.AuthAzureB2C.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.AuthAzureB2C\bin\Debug\net5.0\ref\TiEventsy.AuthAzureB2C.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.AuthAzureB2C\bin\Debug\net5.0\TiEventsy.AuthAzureB2C.pdb
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.AuthAzureB2C\obj\Debug\net5.0\TiEventsy.AuthAzureB2C.csproj.AssemblyReference.cache
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.AuthAzureB2C\obj\Debug\net5.0\TiEventsy.AuthAzureB2C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.AuthAzureB2C\obj\Debug\net5.0\TiEventsy.AuthAzureB2C.AssemblyInfoInputs.cache
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.AuthAzureB2C\obj\Debug\net5.0\TiEventsy.AuthAzureB2C.AssemblyInfo.cs
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.AuthAzureB2C\obj\Debug\net5.0\TiEventsy.AuthAzureB2C.csproj.CoreCompileInputs.cache
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.AuthAzureB2C\obj\Debug\net5.0\TiEventsy.AuthAzureB2C.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.AuthAzureB2C\obj\Debug\net5.0\ref\TiEventsy.AuthAzureB2C.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.AuthAzureB2C\obj\Debug\net5.0\TiEventsy.AuthAzureB2C.pdb
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.AuthAzureB2C\bin\Debug\net5.0\conf_azureb2c.json

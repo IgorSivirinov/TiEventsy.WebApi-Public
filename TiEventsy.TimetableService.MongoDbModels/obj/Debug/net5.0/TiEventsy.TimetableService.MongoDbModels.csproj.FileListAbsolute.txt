@@ -1,0 +1,12 @@
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.MongoDbModels\bin\Debug\net5.0\TiEventsy.TimetableService.MongoDbModels.deps.json
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.MongoDbModels\bin\Debug\net5.0\TiEventsy.TimetableService.MongoDbModels.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.MongoDbModels\bin\Debug\net5.0\ref\TiEventsy.TimetableService.MongoDbModels.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.MongoDbModels\bin\Debug\net5.0\TiEventsy.TimetableService.MongoDbModels.pdb
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.MongoDbModels\obj\Debug\net5.0\TiEventsy.TimetableService.MongoDbModels.csproj.AssemblyReference.cache
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.MongoDbModels\obj\Debug\net5.0\TiEventsy.TimetableService.MongoDbModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.MongoDbModels\obj\Debug\net5.0\TiEventsy.TimetableService.MongoDbModels.AssemblyInfoInputs.cache
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.MongoDbModels\obj\Debug\net5.0\TiEventsy.TimetableService.MongoDbModels.AssemblyInfo.cs
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.MongoDbModels\obj\Debug\net5.0\TiEventsy.TimetableService.MongoDbModels.csproj.CoreCompileInputs.cache
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.MongoDbModels\obj\Debug\net5.0\TiEventsy.TimetableService.MongoDbModels.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.MongoDbModels\obj\Debug\net5.0\ref\TiEventsy.TimetableService.MongoDbModels.dll
+C:\Users\igors\source\repos\TiEventsy.WebApi\TiEventsy.TimetableService.MongoDbModels\obj\Debug\net5.0\TiEventsy.TimetableService.MongoDbModels.pdb
